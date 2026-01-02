@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Adarsh Behera</h1>
-<h3 align="center">I am a passionate embedded systems and automotive engineering enthusiast from India.</h3>
+<h3 align="center">I am a passionate embedded systems and mechatronics engineering enthusiast from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/14/14/ee/1414ee5e43bce3ab840aa02bd20b3974.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-codess&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-codess" /> </p>

@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/adarshb05099777" target="blank"><img src="https://img.shields.io/twitter/follow/adarshb05099777?logo=twitter&style=for-the-badge" alt="adarshb05099777" /></a> </p>
 
-- 🔭 I’m currently working on **Mechatronics**
+- 🔭 I’m currently working on **Cybersecurity**
 
-- 🌱 I’m currently learning **Embedded C**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **C, Java, Automotive, Embedded systems**
 

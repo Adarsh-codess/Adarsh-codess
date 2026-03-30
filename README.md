@@ -14,7 +14,6 @@ I bridge the gap between **Mechanical Hardware** and **Low-Level Silicon**. I do
 
 - ⚡ **Currently mastering:** Bare-metal C on **STM32** (No HAL, just Registers)
 - 🚀 **Deep Diving:** Real-Time Operating Systems (**FreeRTOS**) & Task Scheduling
-- 🧠 **Solving:** DSA in C/C++ to optimize memory-constrained environments
 - 🏎️ **Background:** Suspension Lead @ Blue Jay Racing (SAE Baja) — I understand vehicle dynamics from the dirt up.
 
 ---

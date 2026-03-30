@@ -40,8 +40,7 @@ Most software engineers are scared of a multimeter. Most mechanical engineers ar
 
 ### 📈 GitHub Stats & Streak
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=adarsh-codess&show_icons=true&theme=tokyonight" alt="Adarsh's stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-codess&layout=compact&theme=tokyonight" alt="Top Langs" />
+
 </p>
 
 <p align="center">

@@ -1,53 +1,61 @@
 <h1 align="center">Hi 👋, I'm Adarsh Behera</h1>
-<h3 align="center">Mechanical Engineering Student @ OUTR | Software Engineer focused on Cybersecurity, SQL, and C/C++ Data Structures.</h3>
+<h3 align="center">Mechanical Engineer @ OUTR | Aspiring Embedded & Firmware Engineer</h3>
 
 <p align="center">
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/14/14/ee/1414ee5e43bce3ab840aa02bd20b3974.gif">
+<img align="right" alt="Embedded Systems" width="350" src="https://i.pinimg.com/originals/14/14/ee/1414ee5e43bce3ab840aa02bd20b3974.gif">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh-codess&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh-codess" /> </p>
 
-<p align="left"> <a href="https://twitter.com/adarshb05099777" target="blank"><img src="https://img.shields.io/twitter/follow/adarshb05099777?logo=twitter&style=for-the-badge" alt="adarshb05099777" /></a> </p>
+---
+
+### 🔭 The Mission
+I bridge the gap between **Mechanical Hardware** and **Low-Level Silicon**. I don't just write code; I build the logic that makes machines think.
+
+- ⚡ **Currently mastering:** Bare-metal C on **STM32** (No HAL, just Registers)
+- 🚀 **Deep Diving:** Real-Time Operating Systems (**FreeRTOS**) & Task Scheduling
+- 🧠 **Solving:** DSA in C/C++ to optimize memory-constrained environments
+- 🏎️ **Background:** Suspension Lead @ Blue Jay Racing (SAE Baja) — I understand vehicle dynamics from the dirt up.
 
 ---
 
-### 🔭 About Me
-- 🛡️ **Currently working on:** Vulnerability Assessment and Secure Coding (C/C++)
-- 🧠 **Currently learning:** Advanced Data Structures & Algorithms
-- 💬 **Ask me about:** C/C++, SQL, Data Structures, and Automotive Data Strategy
-- 📫 **Reach me at:** adarshbehera3003@gmail.com
+### 🛠️ Tech Stack & Tools
 
-### 🛠️ Why Hire Me? (The X-Factor)
-I bridge the gap between **Mechanical precision** and **Software logic**. 
-* **Engineering Mindset:** Trained to solve complex physical systems at OUTR.
-* **Software Focus:** Applying that logic to build secure, efficient algorithms in C++ and SQL.
-* **Problem Solver:** Combining low-level C knowledge with high-level data strategy.
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adarshb05099777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshb05099777" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adarsh-behera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-behera" height="30" width="40" /></a>
-<a href="https://instagram.com/xpeedy_200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xpeedy_200" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="45" height="45"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a>
+  <img src="https://img.shields.io/badge/STM32-NUCLEO--F103RB-blue?style=for-the-badge&logo=stmicroelectronics" alt="STM32" height="45"/>
+  <img src="https://img.shields.io/badge/RTOS-FreeRTOS-green?style=for-the-badge" alt="FreeRTOS" height="45"/>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a> 
 </p>
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
+### 🛡️ Why Me? (The X-Factor)
+Most software engineers are scared of a multimeter. Most mechanical engineers are scared of a segmentation fault. **I speak both languages.**
+* **Hardware Context:** I know how a suspension loads, which helps me write better sensor fusion algorithms.
+* **Firmware Focus:** Writing code for the "Metal" — optimizing for every byte of RAM and every clock cycle.
 
+---
+
+### 📈 GitHub Stats & Streak
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=adarsh-codess&show_icons=true&theme=tokyonight" alt="Adarsh's stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-codess&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh-codess&theme=tokyonight" alt="Adarsh's streak" />
+</p>
+
+---
+
+### 📫 Connect with the Machine
+- 💼 [LinkedIn](https://www.linkedin.com/in/adarsh-behera-727a45283/)
+- 🐦 [Twitter](https://twitter.com/adarshb05099777)
+- 📧 adarshbehera3003@gmail.com
+
+<p align="center">
+  <i>"Risk it for the biscuit. 🍪 Master the Metal."</i>
 </p>
